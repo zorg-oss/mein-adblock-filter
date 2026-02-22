@@ -1,5 +1,5 @@
 !
-! Title: Xiaomi Find Device White List Xiaomi Find Device
+! Title: Xiaomi Find Device
 ! Description: White List for Xiaomi Find Device service
 ! Version: 1.0
 ! Last modified: 2025-02-22
