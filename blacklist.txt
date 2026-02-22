@@ -1,0 +1,10 @@
+!
+! Title: Filter List
+! Description: Trackers
+! Version: 1.0
+! Last modified: 2025-02-22
+!
+||mediaservices.cdn-apple.com^
+||umami.is^
+||cloud.umami.is^
+||googletagmanager.com^
