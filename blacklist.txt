@@ -1,6 +1,6 @@
 !
 ! Title: Filter List
-! Description: Trackers
+! Description: Trackers and Data collectors
 ! Version: 1.0
 ! Last modified: 2025-02-22
 !
@@ -8,4 +8,4 @@
 ||umami.is^
 ||cloud.umami.is^
 ||googletagmanager.com^
-||collector.github.com
+||collector.github.com^
