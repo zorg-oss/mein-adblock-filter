@@ -1,0 +1,11 @@
+!
+! Title: Xiaomi Find Device White List Xiaomi Find Device
+! Description: White List for Xiaomi Find Device service
+! Version: 1.0
+! Last modified: 2025-02-22
+!
+@@||api.micloud.xiaomi.net^
+@@||eu.statusapi.micloud.xiaomi.net^
+@@||api.device.xiaomi.net^
+@@||api.g.micloud.xiaomi.net^
+@@||findapi.micloud.xiaomi.net^
