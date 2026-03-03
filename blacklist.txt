@@ -9,3 +9,4 @@
 ||cloud.umami.is^
 ||googletagmanager.com^
 ||collector.github.com^
+||googleadservices.com^
