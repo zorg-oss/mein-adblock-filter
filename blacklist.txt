@@ -2,11 +2,11 @@
 ! Title: Filter List
 ! Description: Trackers and Data collectors
 ! Version: 1.0
-! Last modified: 2025-02-22
+! Last modified: 2025-03-04
 !
 ||mediaservices.cdn-apple.com^
 ||umami.is^
 ||cloud.umami.is^
 ||googletagmanager.com^
 ||collector.github.com^
-||googleadservices.com^
+||www.googleadservices.com^
